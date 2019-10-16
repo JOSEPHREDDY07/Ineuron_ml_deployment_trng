@@ -1,0 +1,2 @@
+# Ineuron_ml_deployment_trng
+Ineuron ml deployment_training assignments
